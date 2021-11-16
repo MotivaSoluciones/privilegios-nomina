@@ -1,0 +1,31 @@
+@font-face {
+	font-family: 'Prelo-Medium';
+	src: url('Prelo-Medium.otf');
+	src: local('☺'), url('Prelo-Medium.otf') format('woff');
+	
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Prelo-SemiBold';
+	src: url('Prelo-SemiBold.otf');
+	src: local('☺'), url('Prelo-SemiBold.otf') format('woff');
+	
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PreloSlab-Book.otf';
+	src: url('PreloSlab-Book.otf');
+	src: local('☺'), url('PreloSlab-Book.otf') format('woff');
+	
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PreloSlab-SemiBold.otf';
+	src: url('PreloSlab-SemiBold.otf');
+	src: local('☺'), url('PreloSlab-SemiBold.otf') format('woff');
+	
+	font-style: normal;
+}
